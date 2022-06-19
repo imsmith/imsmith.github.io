@@ -27,7 +27,8 @@ layout: default
     >
   </h5>
   <section>
-    {% assign thesize = page.hn | size %} {% if thesize > 0 %} {% assign hn_link = page.hn %} {% discussion params=page.hn %} {% endif %} {% if page.intro %}
+    <!-- {% assign thesize = page.hn | size %} {% if thesize > 0 %} {% assign hn_link = page.hn %} {% discussion params=page.hn %} {% endif %} {% if page.intro %} -->
+    {% assign thesize = page.hn | size %} {% if thesize > 0 %} {% assign hn_link = page.hn %} {% endif %} {% if page.intro %}
     <p>
       <em>
         {{ page.intro | markdownify | remove: '<p>' | remove: '</p>' }}
