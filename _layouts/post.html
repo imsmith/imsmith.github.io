@@ -19,13 +19,6 @@ layout: default
   </ul>
   {% endif %}
   <h4>Published {{ page.date | date: '%B %d, %Y' }}</h4>
-  <h5>
-    Found something wrong?
-    <a
-      href="{{ site.github.repository_url }}/edit/master/{{ page.relative_path }}"
-      >Submit a pull request!</a
-    >
-  </h5>
   <section>
     <!-- {% assign thesize = page.hn | size %} {% if thesize > 0 %} {% assign hn_link = page.hn %} {% discussion params=page.hn %} {% endif %} {% if page.intro %} -->
     {% assign thesize = page.hn | size %} {% if thesize > 0 %} {% assign hn_link = page.hn %} {% endif %} {% if page.intro %}
