@@ -1,0 +1,24 @@
+---
+layout: post
+title: 'The Three Legged Stool of Leadership'
+date: '2022-03-20 00:00Z'
+categories: post
+---
+
+# The three legged stool of leadership
+
+```mermaid 
+graph TB
+auth(Authority to do a thing)
+resp(Responsibility to do it and do it well)
+accnt(Accountability that it has been done and done correctly)
+
+auth ---> resp ---> accnt ---> auth
+```
+
+You cannot expect someone to be responsible to accomplish a task if they do not have the authority to do it and keep others from saboutaging their efforts.
+
+You cannot have authority without commensurable accountability.  The iconic call to action from Spider-Man, "With great power comes great responsibility" is a statement on accountability, not responsibility.  With great power comes great responsibility _because there is great accountability measuring what you do with your power_.  Submission to an authority which holds your power to account is the prerequiste to leadership.
+
+Authority is never absolute.  It flows from either consent or coercion.  Coercive authority is authority obtained by force and maintained through fear.  Concentual authority is authority that emerges from a group and is maintained through trust.
+
