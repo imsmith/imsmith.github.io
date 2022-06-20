@@ -22,3 +22,4 @@ You cannot have authority without commensurable accountability.  The iconic call
 
 Authority is never absolute.  It flows from either consent or coercion.  Coercive authority is authority obtained by force and maintained through fear.  Concentual authority is authority that emerges from a group and is maintained through trust.
 
+The barometer of leadership, and of leaders, is to ask followers about the balance of fear and trust they have in the leaders; "Do you trust your leader to do what is best for you?"; "Are you afraid of your leader?".
