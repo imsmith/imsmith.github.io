@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'network policy rule primatives'
+title: 'Network policy rule primatives'
 date: '2013-01-12 00:00Z'
 categories: post
 ---
