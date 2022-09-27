@@ -21,7 +21,7 @@ Are you using any of these?
 
 Fewer than 3 bits is insecure, period.
 
-| |Code|Definition|
+|Flags|Code|Definition|
 |---|---|---|
 |0+2+3|Green|SECURE: VERIFIED CREDENTIALS|
 |0+4+6|Green|SECURE: VERIFIED CREDENTIALS|

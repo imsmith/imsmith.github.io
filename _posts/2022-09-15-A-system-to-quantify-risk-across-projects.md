@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '# A system to quantify risk across projects'
+title: 'A system to quantify risk across projects'
 date: '2022-09-15 00:00Z'
 categories: post
 ---
