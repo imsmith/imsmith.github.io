@@ -7,14 +7,7 @@ categories: post
 
 # The three legged stool of leadership
 
-```mermaid 
-graph TB
-auth(Authority to do a thing)
-resp(Responsibility to do it and do it well)
-accnt(Accountability that it has been done and done correctly)
-
-auth ---> resp ---> accnt ---> auth
-```
+![[2022-09-27-the-three-legged-stool-of-leadership.svg]]
 
 You cannot expect someone to be responsible to accomplish a task if they do not have the authority to do it and keep others from saboutaging their efforts.
 

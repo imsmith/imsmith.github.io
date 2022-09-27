@@ -4,10 +4,7 @@ title: 'the flow of technology'
 date: '2022-03-15 00:00Z'
 categories: post
 ---
+# The flow of technology
 
-```mermaid
-graph LR
 
-technologies -- "are part of" --> trends -- create --> opportunities -- "lead to" --> solutions
-
-```
+![[2022-03-15-the-flow-of-technology.svg]]

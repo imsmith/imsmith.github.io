@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "4bf954afe28add8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6124db633518bbe3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38ace0d09a83f625",
+    "type": "split",
+    "children": [
+      {
+        "id": "672fbd7b585d4fcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b25e081372836c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f38c9d94a0740d94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82e8b55d130c9130",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 593.5
+  },
+  "right": {
+    "id": "380986b81b299d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd4cb7ff558053cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105d210272a7e611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87ed3405da4e382f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70c9cb5e7b96f54e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9041f191255fc30c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6124db633518bbe3",
+  "lastOpenFiles": [
+    "_fragments/2022.09.01-Random-big-picture-thoughts.md",
+    "_fragments/2022-06-20-greed-vs-need.md",
+    "_fragments/2022-06-15-flow-of-technology.md",
+    "_fragments/2022-04-05-shortcut.md",
+    "_fragments/2014-12-31-composite-web-security-stack.md",
+    "_drafts/2022-09-15-A-system-to-quantify-risk-across-projects.md",
+    "_drafts/2022-06-22-structured-thinking-about-systems-of-systems.md",
+    "_drafts/2022-06-18-the-three-legged-stool-of-leadership.md",
+    "_drafts/2022-06-16-The-systems-model-for-commercial-network.md",
+    "_drafts/2017-03-30-IP-Protocol-Number-DAG-recommendations.md"
+  ]
+}
