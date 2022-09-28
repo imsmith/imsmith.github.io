@@ -1,10 +1,3 @@
----
-layout: post
-title: 'The network isn't a monolith it is an organism'
-date: '2015-05-08 00:00Z'
-categories: post
----
-
 # The network isn't a monolith, it is an organism.
 
 It shouldn't be owned by a single entity.
