@@ -7,7 +7,7 @@ categories: post
 
 # The three legged stool of leadership
 
-![Figure 1. The three legged stool](../assets/2022-09-27-the-three-legged-stool-of-leadership.svg "Figure 1. The three legged stool")
+![Figure 1. The three legged stool](https://imsmith.github.io/assets/2022-09-27-the-three-legged-stool-of-leadership.svg "Figure 1. The three legged stool")
 
 You cannot expect someone to be responsible to accomplish a task if they do not have the authority to do it and keep others from saboutaging their efforts.
 
