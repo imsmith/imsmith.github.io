@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The network isn't a monolith, it is an organism'
+title: 'The network isn't a monolith, its an organism'
 date: '2014-12-31 00:00Z'
 categories: post
 ---
