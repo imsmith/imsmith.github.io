@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'why can't we have nice things'
+title: "why can't we have nice things"
 date: '2020-03-27 00:00Z'
 categories: post
 ---
